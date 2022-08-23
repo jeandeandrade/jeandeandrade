@@ -1,4 +1,4 @@
-### Olá! Eu sou o Jean
+### Olá! Eu sou o Jean!! 👋
 
 <div align="center">
   <a href="https://github.com/jeandeandrade">
