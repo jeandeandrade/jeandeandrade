@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Bot For Discord With Nlp**
  
- 🌱 I’m currently learning **React Native Expo**
+ 🌱 I’m currently learning **React**
 
 ⚡ **With great power comes great electricity bill**
 
