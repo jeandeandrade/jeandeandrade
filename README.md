@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Bot For Discord With Nlp**
+ 🔭 I’m currently working on a **Bot For Discord With Nlp**
  
  🌱 I’m currently learning **React**
 
