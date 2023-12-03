@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,html,css,figma,vim,tailwind,github" /><br>
-    <img src="https://skillicons.dev/icons?i=python,git,vscode,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=linux,html,css,figma,vim,tailwind,github,neovim" /><br>
+    <img src="https://skillicons.dev/icons?i=python,git,vscode,php,mysql,googlecloud" />
 </div>
 
 <br/>
