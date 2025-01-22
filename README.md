@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Bot For Discord With Nlp**
+ 🔭 I’m currently working on a **Task Manager with ML**
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **Laravel**
 
 ⚡ **With great power comes great electricity bill**
 
@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,html,css,figma,tailwind,github" /><br>
-    <img src="https://skillicons.dev/icons?i=python,git,vscode,cs,mysql,googlecloud,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,tailwindcss,cs,mysql,python,php" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,github,git,vscode,googlecloud,figma,visualstudio" />
 </div>
 
 <br/>
