@@ -2,19 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+Jean+Andrade!;" />
 </h1>
 
-<h3 align="center">📱 Dev Mobile + Cybersecurity Enthusiast 🛡️</h3>
+<h3 align="center">💻 Full-Stack Developer in Training • TypeScript Enthusiast • Backend Lover ⚙️</h3>
 
 <br/>
 
 <div align="center">
   
- 🔭 I’m currently focused on building mobile apps using **Flutter** and **Kotlin**  
- 
- 🌱 Parallel studies in **Cybersecurity**, with hands-on labs using **Linux, Nmap, TryHackMe**  
- 
- 🧱 All previous repositories have been archived to iniciar a new, focused journey.
+ 🔭 Atualmente focado em desenvolvimento **Full-Stack Web** com:
+ <br/>• **Next.js**, **NestJS**, **Prisma**, **PostgreSQL** e **TypeScript**
 
-⚡ _"Discipline is the bridge between goals and results."_
+ 🌱 Buscando dominar o ciclo completo: do banco de dados ao front-end moderno.  
+ 
+ 🎯 Estudante de Análise e Desenvolvimento de Sistemas com foco em construir projetos reais e performáticos.
+
+⚡ _"Disciplina é a ponte entre metas e resultados."_ — Jim Rohn
 
 </div>
 
@@ -34,8 +35,8 @@
 <h2 align="center">⚒️ Current Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,nestjs,ts,mysql,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,figma" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,prisma,postgres,tailwind,graphql,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,figma" />
 </div>
 
 <br/>
@@ -43,13 +44,15 @@
 
 <h2 align="center">📂 Repositories 📂</h2>
 <div align="center">
-  🚧 Reorganizing all public repositories. Only focused content on Mobile and Cybersecurity will be published moving forward.
+  🚧 Reorganizando meus repositórios para refletir minha stack atual:  
+  **Next.js + NestJS + Prisma + PostgreSQL**  
+  Em breve, projetos reais com foco em performance, boas práticas e aplicações completas.
 </div>
 
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 <div align="center">
   <a href="https://github.com/jeandeandrade">
