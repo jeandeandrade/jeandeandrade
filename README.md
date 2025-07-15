@@ -42,16 +42,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">📂 Repositories 📂</h2>
-<div align="center">
-  🚧 Reorganizando meus repositórios para refletir minha stack atual:  
-  **Next.js + NestJS + Prisma + PostgreSQL**  
-  Em breve, projetos reais com foco em performance, boas práticas e aplicações completas.
-</div>
-
-<br/>
-<hr/>
-
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 <div align="center">
