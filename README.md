@@ -9,7 +9,7 @@
 <div align="center">
   
  🔭 Atualmente focado em desenvolvimento **Full-Stack** com:
- <br/>• **Next.js**, **Node.js**, **C#**, **PostgreSQL** e **TypeScript**
+ <br/>• **Next.js**, **Node.js**, **C#**, **TypeScript**, **TailwindCSS**, **PostgreSQL**
 
  🌱 Buscando dominar o ciclo completo: do banco de dados ao front-end moderno.  
  
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Current Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,cs,ts,postgres,mongodb,tailwind,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,cs,ts,postgres,tailwind,linux" /><br>
     <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,figma" />
 </div>
 
