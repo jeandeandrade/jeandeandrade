@@ -8,12 +8,12 @@
 
 <div align="center">
   
- 🔭 Atualmente focado em desenvolvimento **Full-Stack Web** com:
- <br/>• **Next.js**, **NestJS**, **Prisma**, **PostgreSQL** e **TypeScript**
+ 🔭 Atualmente focado em desenvolvimento **Full-Stack** com:
+ <br/>• **Next.js**, **Node.js**, **C#**, **PostgreSQL** e **TypeScript**
 
  🌱 Buscando dominar o ciclo completo: do banco de dados ao front-end moderno.  
  
- 🎯 Estudante de Análise e Desenvolvimento de Sistemas com foco em construir projetos reais e performáticos.
+ 🎯 Análise e Desenvolvimento de Sistemas com foco em construir projetos reais e performáticos.
 
 ⚡ _"Disciplina é a ponte entre metas e resultados."_ — Jim Rohn
 
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Current Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,prisma,postgres,tailwind,graphql,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,cs,ts,postgres,mongodb,tailwind,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,figma" />
 </div>
 
 <br/>
