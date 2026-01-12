@@ -1,65 +1,66 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+Jean+Andrade!;" />
-</h1>
-
-<h3 align="center">💻 Full-Stack Developer in Training • TypeScript Enthusiast • Backend Lover ⚙️</h3>
-
-<br/>
-
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1665245360851-fc7545c3aff0?q=80&w=1632&auto=format&fit=crop" alt="Dark Academia Library" width="100%" style="border-radius: 6px; opacity: 0.9;">
+  <br/><br/>
+
+  <h1>𝐉 𝐞 𝐚 𝐧   𝐀 𝐧 𝐝 𝐫 𝐚 𝐝 𝐞</h1>
   
- 🔭 Atualmente focado em desenvolvimento **Full-Stack** com:
- <br/>• **Next.js**, **Node.js**, **C#**, **TypeScript**, **TailwindCSS**, **PostgreSQL**
+  <p>Software Artisan  •  Full-Stack Developer  •  Problem Solver</p>
+  
+  <br/>
 
- 🌱 Buscando dominar o ciclo completo: do banco de dados ao front-end moderno.  
- 
- 🎯 Análise e Desenvolvimento de Sistemas com foco em construir projetos reais e performáticos.
-
-⚡ _"Disciplina é a ponte entre metas e resultados."_ — Jim Rohn
-
+  <p width="600">
+    "Clean code always looks like it was written by someone who cares."<br/> 
+    — <em>Robert C. Martin</em>
+  </p>
 </div>
 
 <br/>
 
-<div align="center"> 
+<div align="center">
+  ─── ⋆⋅ 🕯️ ⋅⋆ ───
+</div>
+
+### 📜 Prologue
+
+My journey in Computer Science is marked by a relentless search for the perfect structure. As a **Systems Analysis and Development** graduate, I view code not merely as syntax, but as the invisible architecture that moves the modern world. Currently, I dedicate my study hours to mastering the full software creation cycle — from the database atom to the user interface complexity.
+
+My focus lies at the **intersection between the robustness of C# (.NET) and the fluidity of the Next.js ecosystem**. I believe true mastery emerges from a deep understanding of fundamentals, not just the repetition of patterns.
+
+<br/>
+
+### 🏛️ The Arsenal
+
+> *I do not collect tools; I refine the use of those that build solid foundations.*
+
+| **The Facade (Front-end)** | **The Foundation (Back-end)** | **The Archives (Data & Tools)** |
+| :--- | :--- | :--- |
+| TypeScript | C# (.NET Core) | PostgreSQL |
+| Next.js (React) | Node.js | Git & GitHub |
+| TailwindCSS | RESTful APIs | Linux Environment |
+
+<br/>
+
+### 🔭 Studies & Philosophy
+
+The degree was merely the foundation; the true construction begins now.
+I dedicate my post-graduate days to refining my technique in C# and Next.js, seeking not just to write code that works, but to deeply understand the engineering behind large-scale systems.
+
+<br/>
+
+<div align="center">
+  ─── ⋆⋅ ⚔️ ⋅⋆ ───
+  <br/><br/>
+  
+  <a href="https://www.linkedin.com/in/jean-andrade-heiwa/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:jeancarlos.av0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/jean-andrade-heiwa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send_a-Letter-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-<hr/>
-
-<h2 align="center">⚒️ Current Tech Stack ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,cs,ts,postgres,tailwind,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,figma" />
+  <img src="https://raw.githubusercontent.com/jeandeandrade/jeandeandrade/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
 </div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br/>
-<div align="center">
-  <a href="https://github.com/jeandeandrade">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeandeandrade&show_icons=true&theme=dark&line_height=27" />
-  </a>
-  <a href="https://github.com/jeandeandrade">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeandeandrade&theme=dark&hide_langs_below=2" />
-  </a>
-</div>
-
-<br/><br/>
-<hr/>
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<br/>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeandeandrade/jeandeandrade/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br/><br/><br/>
