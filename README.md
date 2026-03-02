@@ -34,9 +34,9 @@ My focus lies at the **intersection between the robustness of C# (.NET) and the 
 
 | **The Facade (Front-end)** | **The Foundation (Back-end)** | **The Archives (Data & Tools)** |
 | :--- | :--- | :--- |
-| TypeScript | C# (.NET Core) | PostgreSQL |
-| Next.js (React) | Node.js | Git & GitHub |
-| TailwindCSS | RESTful APIs | Linux Environment |
+| TypeScript | C# | PostgreSQL |
+| Next.js | Node.js | Git & GitHub |
+| TailwindCSS | RESTful APIs | Linux |
 
 <br/>
 
