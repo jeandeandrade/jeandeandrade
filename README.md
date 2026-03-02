@@ -51,7 +51,7 @@ I dedicate my post-graduate days to refining my technique in C# and Next.js, see
   ─── ⋆⋅ ⚔️ ⋅⋆ ───
   <br/><br/>
   
-  <a href="https://www.linkedin.com/in/jean-andrade-heiwa/">
+  <a href="https://www.linkedin.com/in/jean-de-andrade/">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jeancarlos.av0@gmail.com">
