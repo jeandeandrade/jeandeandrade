@@ -1,67 +1,70 @@
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1665245360851-fc7545c3aff0?q=80&w=1632&auto=format&fit=crop" alt="Dark Academia Library" width="100%" style="border-radius: 6px; opacity: 0.9;">
-  <br/><br/>
+# Jean Carlos
 
-  <h1>𝐉 𝐞 𝐚 𝐧   𝐀 𝐧 𝐝 𝐫 𝐚 𝐝 𝐞</h1>
-  
-  <p>Software Artisan  •  Full-Stack Developer  •  Problem Solver</p>
-  
-  <br/>
+Full Stack Developer focused on building real-world applications, including SaaS platforms, APIs and mobile apps.
 
-  <p width="600">
-    "Clean code always looks like it was written by someone who cares."<br/> 
-    — <em>Robert C. Martin</em>
-  </p>
-</div>
+---
 
-<br/>
+## 🚀 What I do
 
-<div align="center">
-  ─── ⋆⋅ 🕯️ ⋅⋆ ───
-</div>
+- Develop backend systems with Node.js and TypeScript
+- Design and implement REST APIs and business logic
+- Build mobile applications with React Native (Expo)
+- Create web applications using React / Next.js
+- Deploy, update and maintain applications in production environments (SSH)
 
-### 📜 Prologue
+---
 
-My journey in Computer Science is marked by a relentless search for the perfect structure. As a **Systems Analysis and Development** graduate, I view code not merely as syntax, but as the invisible architecture that moves the modern world. Currently, I dedicate my study hours to mastering the full software creation cycle — from the database atom to the user interface complexity.
+## 🧠 Current Experience
 
-My focus lies at the **intersection between the robustness of C# (.NET) and the fluidity of the Next.js ecosystem**. I believe true mastery emerges from a deep understanding of fundamentals, not just the repetition of patterns.
+Currently working on a **SaaS multi-tenant application**, responsible for:
 
-<br/>
+- Backend architecture and API development
+- Data modeling and tenant isolation
+- Business rules and permission control
+- Mobile application integration
+- Production deployment and maintenance
 
-### 🏛️ The Arsenal
+---
 
-> *I do not collect tools; I refine the use of those that build solid foundations.*
+## 🛠 Tech Stack
 
-| **The Facade (Front-end)** | **The Foundation (Back-end)** | **The Archives (Data & Tools)** |
-| :--- | :--- | :--- |
-| TypeScript | C# | MongoDB |
-| Next.js | Node.js | Git & GitHub |
-| React Native | RESTful APIs | Linux |
-| TailwindCSS | 
+**Backend**
+- Node.js, Express, TypeScript
 
-<br/>
+**Frontend & Mobile**
+- React, Next.js, React Native (Expo)
 
-### 🔭 Studies & Philosophy
+**Database**
+- MongoDB, PostgreSQL
 
-The degree was merely the foundation; the true construction begins now.
-I dedicate my post-graduate days to refining my technique in C# and Next.js, seeking not just to write code that works, but to deeply understand the engineering behind large-scale systems.
+**Tools**
+- Git, Linux, REST APIs, SSH
 
-<br/>
+---
 
-<div align="center">
-  ─── ⋆⋅ ⚔️ ⋅⋆ ───
-  <br/><br/>
-  
-  <a href="https://www.linkedin.com/in/jean-de-andrade/">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jeancarlos.av0@gmail.com">
-    <img src="https://img.shields.io/badge/Send_a-Letter-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+## 📌 Highlight Projects
 
-<br/>
+### 🔹 Event Management API
+REST API built with Node.js, TypeScript and Prisma.
+- Event creation and participant management
+- Check-in system
+- Structured architecture
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jeandeandrade/jeandeandrade/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
-</div>
+### 🔹 .NET Web API (Clean Architecture)
+API built with C# and ASP.NET Core
+- Layered architecture (Core, Application, Infrastructure)
+- Entity Framework and migrations
+- Prepared for unit testing
+
+### 🔹 Real Estate Landing Page
+Frontend project using Next.js and TailwindCSS
+- Component-based structure
+- Responsive design
+- Clean UI
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/jean-de-andrade/
+- Email: jeancarlos.av0@gmail.com
