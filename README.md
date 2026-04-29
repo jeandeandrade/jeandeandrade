@@ -1,4 +1,4 @@
-# Jean Carlos
+# Jean Andrade
 
 Full Stack Developer focused on building real-world applications, including SaaS platforms, APIs and mobile apps.
 
