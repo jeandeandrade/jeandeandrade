@@ -103,9 +103,8 @@ Full-stack application for managing in-person events and participant check-ins.
 * QR Code check-in system
 * Relational database modeling
 * Business rules for registrations and event capacity control
-
-  [FrontEnd](https://github.com/jeandeandrade/pass-in-web)
-  [API](https://github.com/jeandeandrade/server-node)
+* [FrontEnd](https://github.com/jeandeandrade/pass-in-web)
+* [API](https://github.com/jeandeandrade/server-node)
 
 ### 🔹 Materium — Raw Material Comparison Platform
 
@@ -115,9 +114,8 @@ Full-stack platform designed to automate raw material research and supplier comp
 * Backend developed with NestJS
 * Prisma ORM integration
 * Business rules focused on cost analysis and purchasing decisions
-
-  [FrontEnd](https://github.com/jeandeandrade/Materium)
-  [API](https://github.com/jeandeandrade/Materium-API)
+* [FrontEnd](https://github.com/jeandeandrade/Materium)
+* [API](https://github.com/jeandeandrade/Materium-API)
 
 ---
 
