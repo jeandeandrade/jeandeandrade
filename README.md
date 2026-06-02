@@ -6,6 +6,13 @@ Currently working on the development and evolution of a multi-tenant SaaS platfo
 
 ---
 
+## 📫 Contact
+
+* LinkedIn: [www.linkedin.com/in/jean-de-andrade](http://www.linkedin.com/in/jean-de-andrade)
+* Email: [jeancarlos.av0@gmail.com](mailto:jeancarlos.av0@gmail.com)
+
+---
+
 ## 🚀 What I Do
 
 * Design and develop REST APIs and backend services
@@ -91,8 +98,10 @@ Backend application developed with C#, ASP.NET Core and Entity Framework Core.
 * Layered organization (Core, Application, Infrastructure, Presentation)
 * Entity Framework Core and migrations
 * Dependency Injection and SOLID principles
+  
+Repository
 
-  [Eficaz-WebApi](https://github.com/jeandeandrade/Eficaz-WebApi)
+* [Eficaz-WebApi](https://github.com/jeandeandrade/Eficaz-WebApi)
 
 ### 🔹 Pass.in — Event Management System
 
@@ -103,6 +112,9 @@ Full-stack application for managing in-person events and participant check-ins.
 * QR Code check-in system
 * Relational database modeling
 * Business rules for registrations and event capacity control
+
+Repository
+
 * [FrontEnd](https://github.com/jeandeandrade/pass-in-web)
 * [API](https://github.com/jeandeandrade/server-node)
 
@@ -114,12 +126,7 @@ Full-stack platform designed to automate raw material research and supplier comp
 * Backend developed with NestJS
 * Prisma ORM integration
 * Business rules focused on cost analysis and purchasing decisions
+
+Repository
 * [FrontEnd](https://github.com/jeandeandrade/Materium)
 * [API](https://github.com/jeandeandrade/Materium-API)
-
----
-
-## 📫 Contact
-
-* LinkedIn: [www.linkedin.com/in/jean-de-andrade](http://www.linkedin.com/in/jean-de-andrade)
-* Email: [jeancarlos.av0@gmail.com](mailto:jeancarlos.av0@gmail.com)
