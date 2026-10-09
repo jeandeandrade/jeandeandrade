@@ -46,4 +46,4 @@ I also document my learning journey through **Jc.Dev**, with an emphasis on inde
 
 - **LinkedIn:** [Jean Andrade](https://linkedin.com/in/jean-de-andrade)
 - **Email:** [jeancarlos.av0@gmail.com](mailto:jeancarlos.av0@gmail.com)
-
+- **YouTube:** [JC.Dev](https://www.youtube.com/@Jc.Dev007)
